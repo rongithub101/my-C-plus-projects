@@ -1,0 +1,1 @@
+This is an object-oriented project where it shows key OOP principles such as encapsulation, constructors, getter/setters, and data abstraction. Hope you enjoy!
