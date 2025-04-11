@@ -1,0 +1,1 @@
+This is a small project where I measure the photoresistor reading in 2 second intervals whenever the LED is turned on/off. This keeps on repeating forever. This is done using an Aurdino Mega, and complied via the Aurdino environment. I have attached the same Aurdino code file as a cpp file in case if you are not able to access it. Hope you enjoy!  
