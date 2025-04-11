@@ -1,0 +1,2 @@
+This is a small project where I turn on the LED for 2 seconds then off for one second.
+This keeps on repeating forever. This is done using an Aurdino Mega, and complied via the Aurdino environment. I have attached the same Aurdino code file as a cpp file in case if you are not able to access it. Hope you enjoy!   
